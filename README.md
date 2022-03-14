@@ -1,4 +1,4 @@
-# trainer_code
+# T
 
 This is the official cohort GitHub organization for the 220307-UTA-NAT cohort!
 
